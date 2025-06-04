@@ -1,0 +1,5 @@
+/Build/*.aux
+/Build/*.log
+/Build/*.out
+/Build/*.pdf
+/Build/*.gz
